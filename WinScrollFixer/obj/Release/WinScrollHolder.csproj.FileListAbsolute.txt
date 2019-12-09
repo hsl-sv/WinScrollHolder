@@ -1,0 +1,14 @@
+E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\bin\Release\WinScrollFixer.exe.config
+E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\bin\Release\WinScrollFixer.exe
+E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\bin\Release\WinScrollFixer.pdb
+E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\MainWindow.g.cs
+E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\App.g.cs
+E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollFixer_MarkupCompile.cache
+E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollFixer_MarkupCompile.lref
+E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\MainWindow.baml
+E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollFixer.g.resources
+E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollFixer.Properties.Resources.resources
+E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollHolder.csproj.GenerateResource.cache
+E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollHolder.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollFixer.exe
+E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollFixer.pdb
