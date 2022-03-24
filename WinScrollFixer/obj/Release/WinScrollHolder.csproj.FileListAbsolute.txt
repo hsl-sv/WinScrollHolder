@@ -12,3 +12,17 @@ E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScroll
 E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollHolder.csproj.CoreCompileInputs.cache
 E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollFixer.exe
 E:\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollFixer.pdb
+C:\Users\skycr\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\bin\Release\WinScrollFixer.exe.config
+C:\Users\skycr\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\bin\Release\WinScrollFixer.exe
+C:\Users\skycr\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\bin\Release\WinScrollFixer.pdb
+C:\Users\skycr\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\MainWindow.g.cs
+C:\Users\skycr\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\App.g.cs
+C:\Users\skycr\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollFixer_MarkupCompile.cache
+C:\Users\skycr\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollFixer_MarkupCompile.lref
+C:\Users\skycr\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\MainWindow.baml
+C:\Users\skycr\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollFixer.g.resources
+C:\Users\skycr\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollFixer.Properties.Resources.resources
+C:\Users\skycr\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollHolder.csproj.GenerateResource.cache
+C:\Users\skycr\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollHolder.csproj.CoreCompileInputs.cache
+C:\Users\skycr\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollFixer.exe
+C:\Users\skycr\OneDrive\Documents\Codes\WinScrollHolder\WinScrollFixer\obj\Release\WinScrollFixer.pdb

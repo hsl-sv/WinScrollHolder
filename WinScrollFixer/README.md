@@ -1,0 +1,1 @@
+﻿This program literally try to keep your mouse vertical scroll speed
